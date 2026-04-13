@@ -37,5 +37,3 @@ python3 main.py <url>
 ```bash
 python3 main.py https://books.toscrape.com
 ```
-
-## Example Output
